@@ -1,0 +1,21 @@
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\SQLiteExample\SQLiteExample\bin\Debug\SQLiteExample.exe
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\SQLiteExample\SQLiteExample\bin\Debug\SQLiteExample.pdb
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\SQLiteExample\SQLiteExample\obj\x86\Debug\SQLiteExample.Form1.resources
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\SQLiteExample\SQLiteExample\obj\x86\Debug\SQLiteExample.Properties.Resources.resources
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\SQLiteExample\SQLiteExample\obj\x86\Debug\SQLiteExample.csproj.GenerateResource.Cache
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\SQLiteExample\SQLiteExample\obj\x86\Debug\SQLiteExample.exe
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\SQLiteExample\SQLiteExample\obj\x86\Debug\SQLiteExample.pdb
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\SQLiteExample\SQLiteExample\bin\Debug\SQLiteExample.exe.config
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\SQLiteExample\SQLiteExample\obj\x86\Debug\SQLiteExample.csprojResolveAssemblyReference.cache
+C:\GitHub\SQLiteExample\SQLiteExample\bin\Debug\SQLiteExample.exe.config
+C:\GitHub\SQLiteExample\SQLiteExample\obj\x86\Debug\SQLiteExample.exe
+C:\GitHub\SQLiteExample\SQLiteExample\obj\x86\Debug\SQLiteExample.pdb
+C:\GitHub\SQLiteExample\SQLiteExample\obj\x86\Debug\SQLiteExample.csprojResolveAssemblyReference.cache
+C:\GitHub\SQLiteExample\SQLiteExample\obj\x86\Debug\SQLiteExample.Form1.resources
+C:\GitHub\SQLiteExample\SQLiteExample\obj\x86\Debug\SQLiteExample.Properties.Resources.resources
+C:\GitHub\SQLiteExample\SQLiteExample\obj\x86\Debug\SQLiteExample.csproj.GenerateResource.Cache
+C:\GitHub\SQLiteExample\SQLiteExample\bin\Debug\SQLiteExample.exe
+C:\GitHub\SQLiteExample\SQLiteExample\bin\Debug\SQLiteExample.pdb
+C:\GitHub\SQLiteExample\SQLiteExample\bin\Debug\System.Data.SQLite.dll
+C:\GitHub\SQLiteExample\SQLiteExample\bin\Debug\System.Data.SQLite.Linq.dll
+C:\GitHub\SQLiteExample\SQLiteExample\bin\Debug\System.Data.SQLite.xml
